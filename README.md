@@ -1,16 +1,22 @@
 ### Hi there 👋
+- 📫 How to reach me: Email me at saeed.sharman@gmail.com 🙂
 
 <!--
-**Saeed1989/Saeed1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeed1989)](https://github.com/saeed1989/github-readme-stats)
+-->
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed1989&theme=blue-green)
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/saeed1989)](https://github.com/foyzulkarim)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on an Angular project
+🌱 I’m currently learning ReactJs, NestJs(an ExpressJs framework)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
