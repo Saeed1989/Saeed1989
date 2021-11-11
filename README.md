@@ -6,10 +6,9 @@
 -->
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed1989&theme=blue-green)
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/saeed1989)](https://github.com/foyzulkarim)
-
-Here are some ideas to get you started:
+<!--
+[![Visits Badge](https://badges.pufler.dev/visits/saeed1989/saeed1989)](https://github.com/saeed1989)
+-->
 
 🔭 I’m currently working on an Angular project
 🌱 I’m currently learning ReactJs, NestJs(an ExpressJs framework)
