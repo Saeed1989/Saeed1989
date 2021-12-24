@@ -11,7 +11,7 @@
 -->
 
 🔭 I’m currently working on an Angular project
-🌱 I’m currently learning ReactJs, NestJs(an ExpressJs framework)
+🌱 I’m currently learning ReactJs, ExpressJs, MongoDB)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
