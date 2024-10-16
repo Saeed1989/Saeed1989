@@ -10,8 +10,8 @@
 [![Visits Badge](https://badges.pufler.dev/visits/saeed1989/saeed1989)](https://github.com/saeed1989)
 -->
 
-🔭 I’m currently working on an Angular project
-🌱 I’m currently learning ReactJS, ExpressJS, MongoDB
+🔭 I’m currently working as Project Manager
+🌱 So you will see less activity in my codebase
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
